@@ -1,1 +1,9 @@
 read me
+created a new repo online at github called it basic repo
+created local repo caleed it basec_repo
+created files inside local repo using /touch/ command
+added commit using /git commit -m "__" /
+push the repo   firt command was /git remote-v/ 
+next command was / git remote add origin url..../
+next /git remote -v/
+next /git push/
